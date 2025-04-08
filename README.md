@@ -40,5 +40,5 @@ By the end of this project, the dataset is:
 ```bash
 📦EDA-Preprocessing-Project
  ┣ 📜Employee_Data-EDA-and-Preprocessing-ML.ipynb
- ┣ 📊Employee.csv (or your dataset)
+ ┣ 📊Employee.csv 
  ┗ 📘README.md
